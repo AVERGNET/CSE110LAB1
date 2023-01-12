@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LAB1</string>
+    <string name="student_name_value">Alexis Vergnet</string>
+    <string name="quarter">Winter 2023</string>
+    <string name="class_description">Software Engineering</string>
+    <string name="class_id">CSE 110</string>
+    <string name="welcome_message">Welcome to</string>
+
+</resources>
